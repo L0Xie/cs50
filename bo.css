@@ -1,0 +1,41 @@
+.column {
+  width: 50%;
+  padding: 10px;
+}
+
+#c1{
+  float: left;
+}
+
+#c2{
+  float: right;
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica;
+}
+
+img {
+  width: 100%;
+}
+
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+  background-color: maroon;
+}
+
+th, td {
+  padding: 15px;
+}
+
+ul {
+  font-family: "Times New Roman";
+}
